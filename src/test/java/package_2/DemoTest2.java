@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class DemoTest2 {
 	
-	
+	//Regression
 		@Test(groups= {"regression"})
 		public void demoTest4()
 		{
